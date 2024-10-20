@@ -2,7 +2,7 @@
 
 Esse projeto foi realizado como fonte de estudo para o curso: [React: desenvolvendo com JavaScript](https://cursos.alura.com.br/course/react-desenvolvendo-javascript)
 
-Acesse o link para experimentar: [Organo]()
+Acesse o link para experimentar: [Organo](https://organo-pearl-theta.vercel.app/).\
 Caso queira editar, clone o repositório e siga os passos a abaixo.
 
 ## Iniciar projeto
